@@ -33,4 +33,8 @@ Play around with it a bit more by trying out the following in this file:
 * Create a new student and have that student learn a few things from `avi` as well. 
 * Then, `puts` out the existing knowledge of each student. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-inheritance-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-inheritance-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Inheritance Lab</p>
